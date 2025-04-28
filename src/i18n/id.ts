@@ -1,4 +1,4 @@
-export  const en = {
+export  const id = {
   'aside.caution': 'Peringatan',
   'aside.danger':'Bahaya',
   'aside.note': 'Note',
