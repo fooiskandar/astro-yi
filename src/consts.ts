@@ -211,18 +211,18 @@ export const comment = {
 
   // giscus config
   giscusConfig: {
-    'data-repo': "",
-    'data-repo-id': "",
-    'data-category': "",
-    'data-category-id': "",
-    'data-mapping': "",
-    'data-strict': "",
-    'data-reactions-enabled': "",
-    'data-emit-metadata': "",
-    'data-input-position': "",
-    'data-theme': "",
-    'data-lang': "",
-    'crossorigin': "",
+    'data-repo': "fooiskandar/astro-yi",
+    'data-repo-id': "R_kgDOOa-M5g",
+    'data-category': "Announcements",
+    'data-category-id': "DIC_kwDOOa-M5s4Cpjts",
+    'data-mapping': "pathname",
+    'data-strict': "0",
+    'data-reactions-enabled': "1",
+    'data-emit-metadata': "1",
+    'data-input-position': "bottom",
+    'data-theme': "light",
+    'data-lang': "id",
+    'crossorigin': "anonymous",
   }
 
   //
