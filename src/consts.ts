@@ -195,7 +195,7 @@ export const friendshipLinks =
  * walineConfig.whiteList {string[]} set some pages not to display reaction
  */
 export const comment = {
-  enable: false,
+  enable: true,
   type: 'giscus', // waline | giscus,
   walineConfig: {
     serverUrl: "",
